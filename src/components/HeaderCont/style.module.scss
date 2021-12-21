@@ -1,0 +1,42 @@
+.headerConteiner {
+    position: fixed;
+    z-index: 1;
+    width: 100%;
+    background-color: black;
+    opacity: 0.9;
+    
+    .centerBlock {
+        display: flex;
+        justify-content: space-between;
+        width: 80%;
+        margin: 0 auto;
+        height: 63px;
+
+        .logo {
+            height: 35px;
+            margin: 0 35px 0 0;
+        }
+
+        .linkText {
+            font-size: 12px;
+            background-color: black;
+            padding: 0 15px;
+        }
+    
+        .instaIcon {
+            font-size: 20px;
+            color: #bebcbc;
+            margin: 23px 20px 0 20px;
+        }
+    
+        .phoneContact {
+            font-size: 12px;
+            color: #bebcbc;
+            width: 150px;
+            letter-spacing: -0.5px;
+        }
+    
+    }
+
+}
+

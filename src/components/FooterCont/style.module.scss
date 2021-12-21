@@ -1,0 +1,67 @@
+.footerContainer {
+    width: 100%;
+    background-color: black;
+    opacity: 0.9;
+    min-height: 200px;
+    padding: 0;
+
+    .centerContext {
+        width: 80%;
+        margin: 0 auto;
+        color: #ffffff;
+        padding: 20px 0;
+
+        .rowFoot {
+            justify: space-between;
+
+            .colFoot {
+                width: 200px;
+                margin: 0 10px;
+            }
+            
+            .logoFooter {
+                height: 50px;
+                margin: 10px 0;
+            }
+    
+            .licence {
+                font-size: 10px;
+                color: rgb(182, 182, 182);
+            }
+    
+            .footerText {
+                font-size: 12px;
+                color: rgb(182, 182, 182);
+                letter-spacing: -0.5px;
+            }
+    
+            .footerLink {
+                font-size: 12px;
+                color: rgb(182, 182, 182);
+                text-decoration: none;
+                letter-spacing: -0.5px;
+            }
+        }
+
+        .masterCard {
+            width: 200px;
+            min-height: 50px;
+            margin: 0 auto;
+
+            img {
+                width: 150px;
+                padding: 0;
+            }
+        }
+
+        .technology {
+            width: 150px;
+            margin: 0 auto;
+            color: rgb(182, 182, 182);
+
+            .logoReact {
+                width: 50px;
+            }
+        }
+    }
+}
