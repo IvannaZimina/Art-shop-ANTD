@@ -2,7 +2,7 @@
 Create a Landing page using ANT-design library on React without functional options
 
 ## Stack
-React.js, JAS native, ANT-design library, Sass (SCSS).
+React.js, JS native, ANT-design library, Sass (SCSS).
 
 ## Description
 Creating landing-page using any site with goods (items) as example to practice components from ANT-design library.
