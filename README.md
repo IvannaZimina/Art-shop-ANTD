@@ -1,7 +1,7 @@
 ## Task
 Create a Landing page using ANT-design library on React without functional options
 
-##Stack
+## Stack
 React.js, JAS native, ANT-design library, Sass (SCSS).
 
 ## Description
